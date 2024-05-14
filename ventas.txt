@@ -1,0 +1,5 @@
+Total de ventas de Pan ciabatta: $2000.00
+Total de ventas de Pie de limon: $7000.00
+Total de ventas de Café: $6600.00
+Total de ventas de Té: $6400.00
+Total de ventas de Alfajor: $5000.00
