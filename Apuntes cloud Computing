@@ -1,0 +1,14 @@
+Permisos CHMOD
+
+- R = read (leer)
+- W = write (escribir)
+- X = execute (ejecutar)
+
+#Permisos     #Valor  
+- Leer        4     
+- Escribir    2      = 7
+- Ejecutar    1
+
+
+
+
