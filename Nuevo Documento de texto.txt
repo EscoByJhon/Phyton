@@ -1,0 +1,15 @@
+mkdir (nombre directorio)
+ls
+cd (nombre directorio)
+touch archivo.txt
+ls
+cp archivo.txt copia_archivo.txt
+mkdir carpeta_2
+mv copia_archivo.txt carpeta_2
+cd .. (retrocedes directorio)
+rm archivo.txt
+rm -rf actividad_linux (borrar drectorio con contenido)
+touch(solo crear archivos)
+echo "tercer texto" >> notas.txt escribir en un texto
+whoami ver el usuario
+sudo chown EscoByJhon:ec2-user notas.txt cambiar de propetiatio
